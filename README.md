@@ -13,6 +13,8 @@ cd actix-maud-htmx-h5bp
 cargo run
 ```
 
+Now open <http://localhost:8080/> in your browser.
+
 ## 🗺️ File mapping from H5BP
 
 The files from a standard download of H5BP 8.0 maps to the following files in
